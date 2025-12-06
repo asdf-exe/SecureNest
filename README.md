@@ -64,7 +64,7 @@ npm run dev
 
 
 👤 Author
-Harsh Pratap Singh
+Ayush Bharti
 
 ```
 
